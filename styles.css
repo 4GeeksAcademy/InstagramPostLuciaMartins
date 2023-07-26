@@ -1,0 +1,72 @@
+body {
+    background: black;
+}
+.post {
+    width: 500px;
+    height: 800px;
+    margin: 25%;
+    padding: 0;
+}
+.encabezado {
+    width: 500px;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex;
+    background: white;
+}
+#logo {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.nombre {
+    font-size: 8px;
+    display: flex;
+    flex-direction: column;
+    m
+}
+div.nombre {
+    line-height: n2  ;
+}
+p { 
+    margin: 10px;
+    font-size: 12px;
+}
+#puntos {
+    width: 30px;
+    height: 30px;
+    margin-left: 340px;
+    padding: 10px;
+}
+#foto {
+    width: 500px;
+    height: 400px;
+}
+.iconos {
+    height: 40px;
+    /* width: 40px; */
+    background: white;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    margin: 10px;
+}
+.pie {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    padding: 10px;
+} 
+.fa-bookmark {
+    /* flex: 1 1 70%; */
+    float:right;
+}
+.likes {
+    font-weight: bold;
+}
+.rigoberto {
+    margin-top: 0px;
+}
+h1 {
+    margin-bottom: 0px;
+}
